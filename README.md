@@ -195,7 +195,7 @@ Open `http://localhost:3000` in your browser.
 
 ## Authors
 
-Developed as a B.Tech Final Year Project on Deepfake Detection using Blockchain and Deep Learning.
+Developed as a B.Tech Capstone Project on Deepfake Detection using Blockchain and Deep Learning.
 
 Saanvi J Shetty
 
