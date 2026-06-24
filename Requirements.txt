@@ -1,0 +1,21 @@
+# Deep Learning
+torch==2.5.1
+torchvision==0.20.1
+
+# Web Framework
+flask==3.1.3
+flask-cors
+
+# Blockchain
+web3==7.16.0
+
+# Computer Vision
+opencv-python==4.13.0.92
+Pillow==12.2.0
+
+# Machine Learning
+scikit-learn==1.9.0
+numpy==2.4.4
+
+# Utilities
+requests==2.34.2
