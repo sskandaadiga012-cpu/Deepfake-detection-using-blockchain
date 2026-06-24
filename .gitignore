@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+*.egg-info/
+.env
+
+# Large dataset folders
+ffpp_fake/
+ffpp_real/
+FaceForensics++_C23/
+Deepfake_project/
+
+# Node
+node_modules/
+.pnp
+.pnp.js
+
+# Build
+/build
+/dist
+
+# Blockchain
+geth/
+keystore/
+blockchain/node1/
+blockchain/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env.local
+.env.production
